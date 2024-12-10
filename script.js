@@ -104,7 +104,7 @@ function loadQuiz() {
     b_text.innerText = currentQuizData.b;
     c_text.innerText = currentQuizData.c;
     d_text.innerText = currentQuizData.d;
-    document.getElementById('questionNumber').innerText = Question ${currentQuiz + 1}/${quizData.length};
+    document.getElementById('questionNumber').innerText = `Question ${currentQuiz + 1}/${quizData.length}`;
 }
 
 function deselectAnswers() {
@@ -157,3 +157,5 @@ submitBtn.addEventListener('click', () => {
         }
     }
 });
+
+
