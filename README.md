@@ -59,7 +59,7 @@
   }
   
   .quiz-container {
-    background-color: #cf0000;
+    background-color: #d8eef0;
     border-radius: 10px;
     box-shadow: 0 0 10px 2px rgba(100, 100, 100, 0.1);
     width: 600px;
@@ -91,8 +91,8 @@
   }
   
   button {
-    background-color: #ad7c44;
-    color: #fff;
+    background-color: #3a1aca;
+    color: #8cb962;
     border: none;
     display: block;
     width: 100%;
@@ -110,6 +110,9 @@
     outline: none;
     background-color: #337047;
   }
+  
+
+
   
 
 
