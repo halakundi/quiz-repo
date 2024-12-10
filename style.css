@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #295698;
+  background-color: #2ea18e;
   background-image: linear-gradient(315deg, #294c80 0%, #f5f7fa 100%);
   font-family: 'Poppins', sans-serif;
   display: flex;
@@ -41,7 +41,7 @@ ul li label {
   cursor: pointer;
 }
 button {
-  background-color: hwb(331 20% 42%);
+  background-color: hwb(187 20% 42%);
   color: #fff;
   border: none;
   display: block;
