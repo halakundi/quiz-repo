@@ -46,8 +46,8 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #b8c6db;
-  background-image: linear-gradient(315deg, #b8c6db 0%, #f5f7fa 100%);
+  background-color: #2ea18e;
+  background-image: linear-gradient(315deg, #294c80 0%, #f5f7fa 100%);
   font-family: 'Poppins', sans-serif;
   display: flex;
   align-items: center;
@@ -83,7 +83,7 @@ ul li label {
   cursor: pointer;
 }
 button {
-  background-color: #8e44ad;
+  background-color: hwb(187 20% 42%);
   color: #fff;
   border: none;
   display: block;
@@ -94,7 +94,7 @@ button {
   padding: 1.3rem;
 }
 button:hover {
-  background-color: #732d91;
+  background-color: #3919af;
 }
 button:focus {
   outline: none;
